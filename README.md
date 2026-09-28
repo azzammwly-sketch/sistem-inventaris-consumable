@@ -19,3 +19,18 @@ Sistem manajemen inventaris berbasis web untuk mengelola barang habis pakai dan 
 1. **Clone Repositori**
    ```bash
    git clone [https://github.com/azzammwly-sketch/sistem-inventaris-consumable.git](https://github.com/azzammwly-sketch/sistem-inventaris-consumable.git)
+   # Sistem Inventaris Consumable
+
+Aplikasi web berbasis PHP & MySQL untuk mengelola barang habis pakai dan peminjaman barang.
+
+## Cara Menggunakan Proyek Ini:
+1. Clone / Download ZIP dari repositori ini.
+2. Masukkan folder ke `C:\xampp\htdocs\`.
+3. Buka phpMyAdmin (`http://localhost/phpmyadmin`), buat database baru bernama `db_consumable`.
+4. Import file `database.sql` ke dalam database `db_consumable` tersebut.
+5. Akses aplikasi melalui browser di `http://localhost/konsumable/index.php`.
+
+## Akun Default:
+- **Admin**: `admin` / `admin123`
+- **Staff**: `staff` / `staff123`
+-
