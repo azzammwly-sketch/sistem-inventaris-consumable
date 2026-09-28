@@ -33,4 +33,3 @@ Aplikasi web berbasis PHP & MySQL untuk mengelola barang habis pakai dan peminja
 ## Akun Default:
 - **Admin**: `admin` / `admin123`
 - **Staff**: `staff` / `staff123`
--
